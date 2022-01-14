@@ -14,7 +14,11 @@ Breakdown of the code:
 - RSI
 - MFI
 - MACD
-- Stich the data together
+- Stitch the data together
 - Develop a buying strategy for swing trading (define stoploss % and target %)
 - Train ML model
 - Validate ML Model / Backtesting
+
+Recording of the presentation: [Link](https://vimeo.com/showcase/7781853/video/477757544)
+
+View all recording of PHX Data '20 event [here](https://vimeo.com/showcase/phxdata20)
